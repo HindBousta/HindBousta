@@ -1,9 +1,8 @@
 # Hind Bousta
 
-** Data Engineer · Cloud & MLOps**
+** Freelance Data Engineer – Cloud Data Platforms & Scalable Pipelines **
 
-Building scalable cloud data platforms and production-grade pipelines.  
-4+ years delivering enterprise data solutions across AWS and Azure.
+Helping startups and mid-sized teams migrate legacy data systems, build reliable ETL/ELT workflows, and scale cloud analytics (Snowflake, AWS, Azure).
 
 ---
 
