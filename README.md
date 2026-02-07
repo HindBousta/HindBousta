@@ -59,7 +59,11 @@ Docker · Kubernetes · Terraform · Git · Jenkins
 
 ---
 
-## 🔗 Contact
+## 📬 Work With Me
 
+- Initial scoping call (30 min)
+✉️ hindbousta6@gmail.com | 📅 https://calendly.com/hindbousta6/30min
+
+## 🔗 Contact
 - https://www.linkedin.com/in/hind-bousta/
 
