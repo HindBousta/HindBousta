@@ -4,6 +4,14 @@
 
 Helping startups and mid-sized teams migrate legacy data systems, build reliable ETL/ELT workflows, and scale cloud analytics (Snowflake, AWS, Azure).
 
+## 🚀 Featured Projects
+
+1. **COVID ETL Project – Airflow + dbt** – End-to-end ELT data pipeline using Apache Airflow, dbt, PostgreSQL, and Docker. 
+   👉 https://github.com/HindBousta/covid_etl_project
+
+2. **Moodtrip** – An end-to-end travel recommendation system that interprets a user’s mood and generates personalized destination suggestions, micro-itineraries, and trip plans 
+   👉 https://github.com/HindBousta/MoodTrip
+
 ---
 
 ## 🚀 Now
